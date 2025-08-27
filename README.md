@@ -44,7 +44,7 @@ https://miro.com/app/board/uXjVKMeNpXI=/
                             This is your Board ID
 ```
 
-**Example**: If your board URL is `https://miro.com/app/board/uXjVKMeNpXI=/`, then your Board ID is `uXjVKMeNpXI`
+**Example**: If your board URL is `https://miro.com/app/board/uXjVKMeNpXI=/`, then your Board ID is `uXjVKMeNpXI=`
 
 ### 2. Get Your Access Token
 
